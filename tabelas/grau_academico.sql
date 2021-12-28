@@ -1,0 +1,4 @@
+CREATE TABLE Grau_Academico (
+    Id INT PRIMARY KEY,
+    Grau VARCHAR (50) NOT NULL
+);
